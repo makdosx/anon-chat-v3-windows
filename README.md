@@ -9,10 +9,6 @@ i) Download zip file </br>
 ii) Extract files in same folder </br> 
 iii) Run the Anon file </br> </br>
 
-</br></br>
-
-</br></br>
-
 <img src="img/1.png" height="100%" width="100%" title="hover text"> <br> <br> <br> 
 <img src="img/2.png" height="100%" width="100%" title="hover text"> <br> <br> <br>  
 <img src="img/3.png" height="100%" width="100%" title="hover text"> <br> <br> <br> 
